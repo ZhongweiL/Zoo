@@ -20,3 +20,7 @@ nav a {
 nav a:hover {
     background-color: #0EDEAB;
 }
+
+img {
+    max-height: 300px;
+}
