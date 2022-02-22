@@ -17,6 +17,16 @@ nav a {
     padding: 15px;
 }
 
-nav a:hover {
+nav a:hover,
+.selected {
     background-color: #0EDEAB;
+}
+
+img {
+    max-height: 300px;
+}
+
+p {
+    margin: auto;
+    max-width: 600px;
 }
