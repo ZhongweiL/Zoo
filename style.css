@@ -25,3 +25,8 @@ nav a:hover,
 img {
     max-height: 300px;
 }
+
+p {
+    margin: auto;
+    max-width: 600px;
+}
