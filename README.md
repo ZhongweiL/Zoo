@@ -3,3 +3,4 @@ A simple website that simulates my own zoo. The webaite can be accessed at https
 
 # Group members
 Zhongwei Li
+GitHub username: ZhongweiL
